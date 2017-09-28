@@ -1,0 +1,11 @@
+body {background: #faf6fa; margin: 100px;font-family:serif; padding: 10px; font-size: 16px;}
+li {display: inline-block;padding: 10px;;}
+nav {display: inline-block;text-align: right;margin: 0 auto;}
+a {color: indigo; padding 2px;}
+a:hover {background: lavender;}
+article {display: inline-block;}
+.profile {display: inline-block; float: right;width: 500px;column-count: 1;}
+div img {display: inline-block; width: 350px;padding: 5px;}
+.me {float: left; width: 500px;column-count: 2;}
+ul {display: inline-block;flex-direction: row;width: auto; height: auto;}
+h1 {text-align: center;}
