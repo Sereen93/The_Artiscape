@@ -1,0 +1,31 @@
+
+h1 {
+      color: purple;
+      font-size: 32px;
+    }
+
+    h2 {
+      font-weight: bold;
+      color: blue;
+      font-size: 24px;
+    }
+
+    p {
+        color:black;
+    }
+
+    button{
+        border: 1px solid;
+        height:25px;
+        width:125px;
+        background-color: orange
+    }
+
+    
+    #my_container {
+    background-color: yellow; /* or hexidecimal #FFFF00 */
+    
+    }
+    
+}
+}
